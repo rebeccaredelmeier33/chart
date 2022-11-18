@@ -63,7 +63,7 @@ h1 {
 }
 
 #graph {
-    width: 60%;
+    width: 90%;
     display: block;
     margin: auto;
     padding-top: 10pt;
@@ -80,6 +80,9 @@ h1 {
           width: 70%;
           margin:auto;
         }
+ 
+  #graph {
+    width: 60%;
 
 }
 
